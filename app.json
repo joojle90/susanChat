@@ -1,0 +1,17 @@
+{
+  "name": "Susan 2.0",
+  "description": "Susan 2.0 API AI",
+  "repository": "https://github.com/girliemac/web-speech-ai",
+  "keywords": ["ai", "api.ai", "bot", "w3c", "susan"],
+  "env": {
+    "APIAI_TOKEN": {
+      "description": "Susan 2.0 Client access token",
+      "value": ""
+    },
+    "APIAI_SESSION_ID": {
+      "description": "Susan 2.0 API AI",
+      "value": ""
+    }
+  },
+  "image": "heroku/nodejs"
+}
